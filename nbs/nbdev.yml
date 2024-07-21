@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gpt2_from_scratch"
+  site-url: "https://HasanGoni.github.io/gpt2_from_scratch"
+  description: "gpt2 developing from scrtach following kapathy video"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/gpt2_from_scratch"
